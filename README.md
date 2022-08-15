@@ -12,6 +12,8 @@ Ces sociétés (Google, Facebook, etc.) gèrent l’authentification sur leur se
 
 
 Translate
+
+
 As cyberattacks are becoming more numerous and complex, the need to understand the different steps to properly secure a web application is more essential than ever.
 We've established a secure connection using Spring Security, and how to configure OAuth 2.0 and Open ID Connect for our Spring Security login form.
 
